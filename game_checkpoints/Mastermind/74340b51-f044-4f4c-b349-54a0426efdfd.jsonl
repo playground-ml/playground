@@ -1,2 +1,0 @@
-{"record_type": "game_header", "game_id": "74340b51-f044-4f4c-b349-54a0426efdfd", "game_name": "Mastermind", "started_at": "2026-04-12T15:10:12.547+00:00", "mode": "human", "batch_instance_index": 0, "model": null, "system_prompt": "", "env_config": {}}
-{"record_type": "game_footer", "game_id": "74340b51-f044-4f4c-b349-54a0426efdfd", "ended_at": "2026-04-12T15:10:13.807+00:00", "total_steps": 1, "success": false}
